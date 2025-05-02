@@ -1,6 +1,6 @@
 <h1 align="center">𝙃𝙞 👋, 𝙄'𝙢 𝙃𝙖𝙢𝙯𝙖 𝙎𝙝𝙖𝙠𝙤𝙤𝙧</h1>
 <h3 align="center">𝐀 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐅𝐫𝐨𝐦 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧 :</h3>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzashakoor119&label=Profile%20views&color=0e75b6&style=flat" alt="hamzashakoor119" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzashakoor119" alt="hamzashakoor119" /></a> </p>
