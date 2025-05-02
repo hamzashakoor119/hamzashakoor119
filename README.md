@@ -3,8 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzashakoor119&label=Profile%20views&color=0e75b6&style=flat" alt="hamzashakoor119" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hamzashakoor02" target="blank"><img src="https://img.shields.io/twitter/follow/hamzashakoor02?logo=twitter&style=for-the-badge" alt="hamzashakoor02" /></a> </p>
-
 - 🔭 I’m currently working on a E-Commerce Website **Buy & Sell HuB**
 
 - 🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 : **𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 & 𝘼𝙜𝙚𝙣𝙩𝙞𝙘 𝘼𝙄 :**
