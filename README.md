@@ -7,10 +7,6 @@
 
 - 🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 : **𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 & 𝘼𝙜𝙚𝙣𝙩𝙞𝙘 𝘼𝙄 :**
 
-- 👯 I’m looking to collaborate on E-Commerce Website **Buy & Sell HuB**
-
-- 🤝 I’m looking for help with E-Commerce Website **Buy & Sell HuB**
-
 - 📫 𝐇𝐨𝐰 𝐓𝐨 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 ! **𝐡𝐚𝐦𝐳𝐚𝐬𝐡𝐚𝐤𝐨𝐨𝐫𝟏𝟏𝟗@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
 
 <h3 align="left">Connect with me:</h3>
