@@ -1,5 +1,5 @@
 <h1 align="center">𝙃𝙞 👋, 𝙄'𝙢 𝙃𝙖𝙢𝙯𝙖 𝙎𝙝𝙖𝙠𝙤𝙤𝙧</h1>
-<h3 align="center">𝐀 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝐅𝐫𝐨𝐦 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧 :</h3>
+<h3 align="center">𝐀 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝐅𝐫𝐨𝐦 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧 :</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzashakoor119&label=Profile%20views&color=0e75b6&style=flat" alt="hamzashakoor119" /> </p>
 
